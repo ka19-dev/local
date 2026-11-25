@@ -1,2 +1,3 @@
 Sample test
 
+new line
